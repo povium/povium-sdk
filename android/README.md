@@ -21,8 +21,8 @@ The google() and mavenCentral() repositories are standard repositories for Andro
 
 Add the SDK as a dependency in your project's build.gradle file:
 
-```groovy
 Copy code
+```groovy
 dependencies {
     implementation(name: 'povium_stream-0.0.1', ext: 'aar')
 }
