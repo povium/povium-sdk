@@ -2,7 +2,7 @@
 ## Android
 To integrate the SDK into your Android project, please follow the steps outlined below:
 
-Download the SDK artifact (AAR file) from the provided source. (https://github.com/povium/povium-sdk/releases/tag/v0.0.2)
+Download the SDK artifact (AAR file) from the provided source. [PoviumSDK-v0.0.3](https://github.com/povium/povium-sdk/releases/tag/v0.0.3)
 
 Place the downloaded artifact in a directory named libs within your project.
 
